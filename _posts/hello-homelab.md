@@ -1,7 +1,7 @@
 ---
 title: Hello Homelab
 date: 2022-05-23 08:25:00 -600
-categories: [homelab,software]
+categories: [homelab, software]
 tags: [github,jekyll,plex]
 ---
 
