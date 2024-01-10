@@ -5,4 +5,7 @@ categories: [HomeLab, Test]
 tags: [homelab,test]     # TAG names should always be lowercase
 ---
 
-# TEST THIS PAGE
+# This Beggining
+
+    - I will be documenting my Home Lab journey in 2024 and beyond through GitHub pages. Stay tuned to follow this adventure.
+
